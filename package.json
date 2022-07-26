@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tksi/lionel-theme.git"
+    "url": "git+https://github.com/Tksi/lionel-theme.git"
   },
   "contributes": {
     "themes": [
