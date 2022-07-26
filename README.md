@@ -1,3 +1,3 @@
 ## Lionel
 
-<img src="./img.png" width="350rem">
+<img src="./img.png" width="500rem">
