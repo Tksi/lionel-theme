@@ -23,5 +23,9 @@
       }
     ]
   },
-  "publisher": "Tksi"
+  "scripts": {
+    "pack": "npx -y vsce package"
+  },
+  "publisher": "Tksi",
+  "icon": "icon.png"
 }
