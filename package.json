@@ -1,0 +1,26 @@
+{
+  "name": "lionel",
+  "displayName": "Lionel",
+  "description": "theme for JSer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tksi/lionel.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lionel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lionel-color-theme.json"
+      }
+    ]
+  }
+}
