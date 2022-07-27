@@ -218,7 +218,8 @@
       "scope": [
         "variable.other.constant",
         "support.constant.property-value",
-        "constant"
+        "constant",
+        "support.class.component"
       ],
       "settings": { "foreground": "#eac682" }
     },
