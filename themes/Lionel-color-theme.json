@@ -225,7 +225,7 @@
     },
     {
       "name": "type primitive",
-      "scope": "support.type.primitive",
+      "scope": ["support.type.primitive", "support.type.builtin"],
       "settings": { "foreground": "#dd8af7" }
     }
   ],
