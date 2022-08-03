@@ -111,12 +111,8 @@
       }
     },
     {
-      "name": "function, typeof",
-      "scope": [
-        "entity.name.function",
-        "keyword.operator.expression",
-        "support.function"
-      ],
+      "name": "function",
+      "scope": ["entity.name.function", "support.function"],
       "settings": {
         "foreground": "#7fc5ff"
       }
@@ -144,8 +140,8 @@
       }
     },
     {
-      "name": "import, if, for, return",
-      "scope": "keyword.control",
+      "name": "import, if, for, return, typeof",
+      "scope": ["keyword.control", "keyword.operator.expression"],
       "settings": {
         "foreground": "#BCFF8A"
       }
